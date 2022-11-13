@@ -170,6 +170,8 @@ MonoBehaviour:
   isGrounded: 0
   animator: {fileID: 0}
   playerAnimationState: 0
+  leftStick: {fileID: 0}
+  verticalThreshhold: 0.6
 --- !u!1 &8289565885472099385
 GameObject:
   m_ObjectHideFlags: 0
